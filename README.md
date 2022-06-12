@@ -22,7 +22,11 @@ Perform opening and closing using the function cv2.MORPH_OPEN and cv2.MORPH_CLOS
 ### Step5:
 Run the programs and execute the outputs.
 
- 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ```
 Program developed by : K.Balaji
